@@ -1,0 +1,59 @@
+body{
+/*  background-color: var(--darkmode); */
+}
+
+.contenu{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+}
+
+.contenu h2{
+   color: var(--titrecontenu);
+   padding: 20px;
+}
+
+.contenu h3{
+  color: var(--soustitre);
+  padding: 15px;
+}
+
+.contenu a:link {
+  color: var(--hyperlink);
+}
+.contenu a:visited {
+  color: var(--hyperlinkvisited);
+}
+.contenu a:hover {
+  color: var(--hyperlinkvisited);
+}
+
+form table tr td{
+  padding: 10px;
+}
+
+.carte table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.carte table tr{
+  padding: 0px;
+  margin: 0px;
+}
+
+.carte table td{
+  padding: 0px;
+  margin: 0px;
+}
+
+.statistiques table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.statistiques table td{
+  padding: 10px;
+}

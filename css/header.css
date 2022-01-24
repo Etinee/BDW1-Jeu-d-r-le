@@ -1,0 +1,25 @@
+header{
+  text-align: center;
+  padding: 2%;
+}
+
+header a:hover{
+  color: var(--hyperlinkvisited);
+  text-decoration: none;
+}
+
+.headerstyle{
+  background-color: var(--backgroundheader);
+  width: 100%;
+}
+
+header img{
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+header h1{
+  color: var(--titreprincipal);
+  font-family: "TitrePrincipal";
+  text-transform: uppercase;
+}

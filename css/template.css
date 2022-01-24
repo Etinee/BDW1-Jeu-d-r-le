@@ -1,0 +1,16 @@
+:root{
+  --hyperlink: #C8963E;
+  --hyperlinkvisited: #AF8131;
+  --darkmode: #2f3136;
+  --backgroundfooter: #573D1C;
+  --textfooter: #D9AE61;
+  --backgroundheader: #D34E36;
+  --titrecontenu: #C8963E;
+  --titreprincipal: #2E210F;
+  --soustitre: #DCB641;
+}
+
+@font-face {
+  font-family: "TitrePrincipal";
+  src: url("../fonts/handwriting-draft_free-version.ttf");
+}

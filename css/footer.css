@@ -1,0 +1,16 @@
+footer{
+  background-color: var(--backgroundfooter);
+  padding: 2%;
+  text-align: center;
+  color: var(--textfooter);
+}
+
+footer a:link {
+  color: var(--hyperlink);
+}
+footer a:visited {
+  color: var(--hyperlinkvisited);
+}
+footer a:hover {
+  color: var(--hyperlinkvisited);
+}
